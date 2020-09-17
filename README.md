@@ -1,0 +1,1 @@
+Global Variables: Those variables declared outside of a function.
